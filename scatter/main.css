@@ -1,0 +1,18 @@
+
+.axis line, .axis path {
+    shape-rendering: crispEdges;
+    stroke: black;
+    fill: none;
+}
+
+circle.point {
+    /* fill: orange; */
+    /* fill-opacity: 0.5; */
+    stroke: gray;
+    r: 5;
+}
+
+.line {
+    stroke-width: 1px;
+    stroke: #83acba44;
+}
